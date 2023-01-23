@@ -1,5 +1,5 @@
 ITEM.name = "Modern Military Backpack (USA)"
-ITEM.description = "A backpack. Features compartments for easy storage of your valuables."
+ITEM.description = "A US Army MOLLE II backpack. These are most often sold as surplus and imported into the Zone by westerners wanting a taste of home."
 ITEM.model = "models/kek1ch/sumka2.mdl"
 
 ITEM.price = 1300
